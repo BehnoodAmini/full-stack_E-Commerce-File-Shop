@@ -35,7 +35,7 @@ It supports digital sales of graphic files, applications, and ebooks with a buil
 ## 📁 Project Structure
 
 
-
+```
 file-shop/
 ├── Client/                 # Frontend (Next.js)
 │   ├── app/               # App router pages and routes
@@ -53,7 +53,7 @@ file-shop/
 │   ├── routes/            # Express routes
 │   ├── .env               # Server environment variables
 │   └── server.js          # Entry point for backend server
-
+```
 
 ---
 
