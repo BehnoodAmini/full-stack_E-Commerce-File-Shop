@@ -1,6 +1,6 @@
 # E-Commerce File Store
 
-**PDShop** is a full-stack open-source file-based e-commerce platform built with **MongoDB**, **Node.js**, **Next.js v15**, and **Tailwind CSS**.  
+**PDShop** is a full-stack open-source file-based e-commerce fully responsive platform built with **MongoDB**, **Node.js**, **Next.js v15**, and **Tailwind CSS**.  
 It supports digital sales of graphic files, applications, and ebooks with a built-in admin panel accessible only to authorized admins.
 
 ---
