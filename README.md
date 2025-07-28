@@ -29,7 +29,8 @@ It supports digital sales of graphic files, applications, and ebooks with a buil
 - Simulated payment system with download access
 - Fully responsive UI with Tailwind CSS
 - Role-based access for admin and users
-
+- Ajax search
+  
 ---
 
 ## 📁 Project Structure
